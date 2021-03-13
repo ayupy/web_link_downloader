@@ -87,6 +87,9 @@ if you don't have python program,you can visit my web service.
 
 here is web site:https://web-link-downloader.herokuapp.com/
 
+if you use heroku,you need Procfile and runtime.txt,pip install youtube-dl.
+
+
 # LICENCE
 The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
 
