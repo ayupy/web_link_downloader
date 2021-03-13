@@ -1,5 +1,5 @@
 # README
-![img_1](https://user-images.githubusercontent.com/80331087/111033940-c4dffe80-8456-11eb-9132-fda1126ca37b.png)
+![img_1](https://user-images.githubusercontent.com/80331087/111036261-b6e3ab00-8461-11eb-9051-81678070d9df.png)
 
 # web_link_downloader
 web_link_downloader is downloade video of the web link.
@@ -32,6 +32,7 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
 ```
 
 windows:
+
 go to https://github.com/ytdl-org/youtube-dl/blob/master/README.md#readme
 
 
@@ -59,14 +60,19 @@ python app.py
 ```
 
 then,move localhost,
+
 you try some video link URl to paste text and choose video extension file.
 
 example Corresponds some web site,  
 
 -youtube:https://www.youtube.com/
+
 -twitter:https://twitter.com/
+
 -instagram:https://www.instagram.com/
+
 -facebook:https://www.facebook.com/
+
 -...others site https://ytdl-org.github.io/youtube-dl/supportedsites.html
 
 # save file
